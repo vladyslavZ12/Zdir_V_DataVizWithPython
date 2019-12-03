@@ -1,0 +1,71 @@
+
+
+#topBar
+{
+	background-color: #00a4e2;
+	height: 30px;
+	margin:0 auto;
+}
+
+#mainHeader{
+	margin:0 auto;
+}
+body {
+	width: 60%;
+	margin: 0 auto;
+	border-left: solid 1px gray;
+	border-right: solid 1px gray;
+	padding: 0px 30px 0px 30px;
+
+}
+
+#header1{
+	justify-content: center;
+	text-align: center;
+}
+
+#introtext{
+	margin: 0 auto;
+	justify-content: center;
+	text-align: center;
+}
+
+.flex-box-one {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#box1{
+	margin: 0 auto;
+}
+
+.flex-box-two {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+
+}
+
+#UMP{
+	
+	width: ;
+	background-color: ;
+	margin:0 auto;
+}
+
+#footerImg{
+	margin-top: 50px;
+	margin-bottom: 0px;
+	padding: 0 auto;
+}
+
+img {
+	width: 100%;
+}
+
+p{
+	text-align: center;
+}
+
